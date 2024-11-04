@@ -2,6 +2,9 @@
 
 Unbreakable Encrypter is a command-line tool designed for secure encryption and decryption of text using unique, automatically generated keys. This application provides a user-friendly interface, making it easy to protect sensitive information.
 
+![image](https://github.com/user-attachments/assets/3d0b1f3c-22b8-44a6-b183-323c5da75604)
+
+
 ## Features
 
 - **User-Friendly Interface**: Simple command-line prompts for easy navigation.
